@@ -4,7 +4,6 @@ import Profile from "./sections/Profile";
 import Projects from "./sections/Projects";
 import Skills from "./sections/Skills";
 import Certifications from "./sections/Certifications";
-import Ongoing from "./sections/Ongoing";
 import Contact from "./sections/Contact";
 import Stats from "./sections/Stats";
 import Footer from "./sections/Footer";
@@ -22,7 +21,6 @@ function App() {
           <Projects />
           <Skills />
           <Certifications />
-          <Ongoing />
           <Contact />
           <Footer />
         </div>
