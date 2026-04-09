@@ -6,7 +6,6 @@ import {
   UserRound,
   Wrench,
   FolderKanban,
-  LaptopMinimalCheck,
 } from "lucide-react";
 
 const navItems = [
@@ -15,7 +14,6 @@ const navItems = [
   { label: "Projects", href: "#projects", icon: FolderKanban },
   { label: "Skills", href: "#skills", icon: Wrench },
   { label: "Credentials", href: "#credentials", icon: Medal },
-  { label: "Ongoing", href: "#ongoing", icon: LaptopMinimalCheck },
   { label: "Contact", href: "#contact", icon: Mail },
 ];
 
